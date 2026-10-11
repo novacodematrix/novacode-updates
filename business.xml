@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>NovaCode Business – Windows Updates</title>
+    <link>https://github.com/novacodematrix/novacode-updates</link>
+    <description>Official update information. No update release is currently published.</description>
+    <language>de</language>
+  </channel>
+</rss>
